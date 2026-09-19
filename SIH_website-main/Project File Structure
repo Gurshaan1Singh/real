@@ -1,0 +1,22 @@
+portal-frontend/
+├── index.html
+├── package.json
+├── vite.config.ts
+├── tsconfig.app.json
+├── src/
+│   ├── main.tsx
+│   ├── App.tsx
+│   ├── index.css
+│   ├── types/
+│   │   └── database.ts
+│   ├── services/
+│   │   └── mockDatabase.ts
+│   ├── components/
+│   │   ├── CivicHeader.tsx
+│   │   └── SystemArchitectureModal.tsx
+│   └── pages/
+│       ├── LoginPage.tsx
+│       ├── LandingPage.tsx
+│       ├── FounderDashboard.tsx
+│       ├── ReviewerDashboard.tsx
+│       └── OfficialDashboard.tsx

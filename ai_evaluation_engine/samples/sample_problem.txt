@@ -1,0 +1,20 @@
+Project Name: SmartLogistics - Real-time Warehouse Inventory & Dispatch Tracker
+
+Problem Statement:
+Our mid-sized 3PL logistics warehouse (50,000 sq ft, 12 loading docks) currently relies on manual paper manifests, barcode handhelds with unreliable Wi-Fi sync, and fragmented spreadsheets to track pallet locations and outgoing deliveries.
+
+Key Requirements:
+1. Web & Tablet Application (Responsive):
+   - For warehouse floor workers to scan pallets, assign shelf locations, and confirm truck load-outs.
+   - Real-time dashboard for operations managers showing dock statuses, active pick lists, and inventory aging.
+2. IoT / Hardware Integration:
+   - Ingest barcode & RFID scanner pings from 15 fixed dock readers via MQTT / WebSockets.
+3. Backend & Cloud Infrastructure:
+   - High-throughput event processing pipeline (handling ~500 scan events/minute).
+   - PostgreSQL database with audit logging for every item movement.
+   - User authentication, role-based access control (Floor Worker, Supervisor, Admin).
+4. Automated Alerting & ERP Integration:
+   - Sync inventory levels daily with client's SAP ERP via REST API.
+   - SMS/Email alerts for delayed shipments or misrouted pallets.
+5. Production Readiness:
+   - Containerized deployment (Docker, AWS ECS/EKS), CI/CD pipeline, staging environment, and comprehensive automated test suite.

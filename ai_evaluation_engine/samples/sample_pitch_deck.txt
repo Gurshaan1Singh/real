@@ -1,0 +1,63 @@
+================================================================================
+SLIDE 1: COVER
+AuraMed AI: Autonomous Clinical Documentation & ICD-10 Coding for Hospitals
+Seed Round Pitch Deck - Confidential
+Founders: Dr. Marcus Vance (MD, ex-Mayo Clinic), Elena Rostova (ex-Google Health AI)
+================================================================================
+
+SLIDE 2: THE PROBLEM
+- Physicians spend 16+ hours/week on Electronic Health Record (EHR) data entry and billing codes.
+- Over ₹2.3 Lakh Crores in revenue is lost annually by hospital networks due to downcoding and claim rejections from improper ICD-10 medical coding.
+- Severe physician burnout: 63% report clerical burden as their primary reason for considering early retirement.
+
+================================================================================
+SLIDE 3: OUR SOLUTION
+AuraMed AI: Ambient Clinical Intelligence & Real-Time Automated Billing
+- Listens to patient-physician consultations via secure iPad/room microphone.
+- Ambiently generates structured clinical SOAP notes directly into Epic and Cerner EHR.
+- Automatically maps symptoms and diagnoses to compliant ICD-10 and CPT reimbursement codes in real-time.
+- 98.4% clinical coding accuracy verified by certified medical coding auditors.
+
+================================================================================
+SLIDE 4: MARKET OPPORTUNITY (TAM / SAM / SOM)
+- Total Addressable Market (TAM): ₹3.5 Lakh Crores global healthcare documentation & revenue cycle management software market.
+- Serviceable Addressable Market (SAM): ₹95,000 Crores in outpatient clinics and regional hospital networks.
+- Serviceable Obtainable Market (SOM): ₹7,000 Crores initial target.
+
+================================================================================
+SLIDE 5: TRACTION & PROOF POINTS
+- 8 Paid Hospital Network Pilots (representing 420 active clinical practitioners).
+- Current Annual Recurring Revenue (ARR): ₹5.2 Crores (up from ₹65 Lakhs 10 months ago, 7.7x YoY growth).
+- Average Net Revenue Retention (NRR): 134%.
+- 0% logo churn over the last 9 months.
+- Integration Partnerships: Official App Market partner in Epic App Orchard.
+
+================================================================================
+SLIDE 6: BUSINESS MODEL & UNIT ECONOMICS
+- B2B Enterprise SaaS: ₹28,000 per physician/month (Annual contracts, paid upfront).
+- Gross Margin: 82% (including cloud GPU inference and data compliance overhead).
+- Customer Acquisition Cost (CAC): ₹3,50,000.
+- Customer Lifetime Value (LTV): ₹26,00,000 (LTV/CAC ratio: 7.5x).
+- Sales cycle: 45 to 60 days for medical groups; 120 days for enterprise hospital systems.
+
+================================================================================
+SLIDE 7: COMPETITIVE MOAT & DEFENSIBILITY
+- Proprietary Medical Fine-Tuning: Trained on 120,000+ proprietary dual-annotated doctor-patient clinical transcripts (HIPAA/DPDP-compliant de-identified data).
+- Epic / Cerner Direct EHR Integration: Deep bi-directional write-back plugins that took 14 months of security audits to certify.
+- Regulatory Moat: DPDP Act 2023, HIPAA, SOC2 Type II, and HITRUST certified architecture.
+
+================================================================================
+SLIDE 8: THE TEAM
+- Dr. Marcus Vance, CEO: Former Clinical Chief of Medicine at Mayo Clinic Regional, 12 years in hospital administration.
+- Elena Rostova, CTO: Ex-Staff Research Scientist at Google Health AI, PhD in NLP from Stanford, 9 medical AI patents.
+- Kevin Patel, Head of Sales: Scaled health-tech sales at Veeva Systems from ₹40 Crores to ₹330 Crores ARR.
+
+================================================================================
+SLIDE 9: THE ASK & USE OF FUNDS
+- Raising: ₹25 Crores Seed Financing (₹18 Crores already committed from leading MedTech angels).
+- Use of Proceeds:
+  - 50% Engineering & AI Infrastructure (scaling inference throughput and multi-language support).
+  - 35% Enterprise Sales & Customer Success (expanding into 25 additional hospital networks).
+  - 15% Regulatory & Operations (HITRUST recertification, legal, working capital).
+- Runway: 24 months to reach ₹29 Crores ARR and Series A milestone.
+================================================================================

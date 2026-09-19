@@ -1,0 +1,309 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+2 0 obj
+<< /Length 309 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 750 Td
+/F1 14 Tf
+(SLIDE 1: COVER) Tj
+T*
+/F1 11 Tf
+(AuraMed AI: Autonomous Clinical Documentation & ICD-10 Coding for Hospitals) Tj
+T*
+(Seed Round Pitch Deck - Confidential) Tj
+T*
+(Founders: Dr. Marcus Vance \(MD, ex-Mayo Clinic\), Elena Rostova \(ex-Google Health) Tj
+T*
+( AI\)) Tj
+T*
+ET
+endstream
+endobj
+4 0 obj
+<< /Length 484 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 750 Td
+/F1 14 Tf
+(SLIDE 2: THE PROBLEM) Tj
+T*
+/F1 11 Tf
+(- Physicians spend 16+ hours/week on Electronic Health Record \(EHR\) data entry a) Tj
+T*
+(nd billing codes.) Tj
+T*
+(- Over $28B in revenue is lost annually by US hospital networks due to downcodin) Tj
+T*
+(g and claim rejections from improper ICD-10 medical coding.) Tj
+T*
+(- Severe physician burnout: 63% report clerical burden as their primary reason f) Tj
+T*
+(or considering early retirement.) Tj
+T*
+ET
+endstream
+endobj
+6 0 obj
+<< /Length 563 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 750 Td
+/F1 14 Tf
+(SLIDE 3: OUR SOLUTION) Tj
+T*
+/F1 11 Tf
+(AuraMed AI: Ambient Clinical Intelligence & Real-Time Automated Billing) Tj
+T*
+(- Listens to patient-physician consultations via secure iPad/room microphone.) Tj
+T*
+(- Ambiently generates structured clinical SOAP notes directly into Epic and Cern) Tj
+T*
+(er EHR.) Tj
+T*
+(- Automatically maps symptoms and diagnoses to compliant ICD-10 and CPT reimburs) Tj
+T*
+(ement codes in real-time.) Tj
+T*
+(- 98.4% clinical coding accuracy verified by certified medical coding auditors.) Tj
+T*
+ET
+endstream
+endobj
+8 0 obj
+<< /Length 506 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 750 Td
+/F1 14 Tf
+(SLIDE 4: MARKET OPPORTUNITY \(TAM / SAM / SOM\)) Tj
+T*
+/F1 11 Tf
+(- Total Addressable Market \(TAM\): $42B global healthcare documentation & revenue) Tj
+T*
+( cycle management software market.) Tj
+T*
+(- Serviceable Addressable Market \(SAM\): $11.5B in US outpatient clinics and regi) Tj
+T*
+(onal hospital networks.) Tj
+T*
+(- Serviceable Obtainable Market \(SOM\): $850M initial target \(Midwestern hospital) Tj
+T*
+( networks & independent medical groups\).) Tj
+T*
+ET
+endstream
+endobj
+10 0 obj
+<< /Length 501 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 750 Td
+/F1 14 Tf
+(SLIDE 5: TRACTION & PROOF POINTS) Tj
+T*
+/F1 11 Tf
+(- 8 Paid Hospital Network Pilots \(representing 420 active clinical practitioners) Tj
+T*
+(\).) Tj
+T*
+(- Current Annual Recurring Revenue \(ARR\): $620,000 \(up from $80k 10 months ago, ) Tj
+T*
+(7.7x YoY growth\).) Tj
+T*
+(- Average Net Revenue Retention \(NRR\): 134%.) Tj
+T*
+(- 0% logo churn over the last 9 months.) Tj
+T*
+(- Integration Partnerships: Official App Market partner in Epic App Orchard.) Tj
+T*
+ET
+endstream
+endobj
+12 0 obj
+<< /Length 540 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 750 Td
+/F1 14 Tf
+(SLIDE 6: BUSINESS MODEL & UNIT ECONOMICS) Tj
+T*
+/F1 11 Tf
+(- B2B Enterprise SaaS: $350 per physician/month \(Annual contracts, paid upfront\)) Tj
+T*
+(.) Tj
+T*
+(- Gross Margin: 82% \(including cloud GPU inference and HIPAA compliance overhead) Tj
+T*
+(\).) Tj
+T*
+(- Customer Acquisition Cost \(CAC\): $4,200.) Tj
+T*
+(- Customer Lifetime Value \(LTV\): $31,500 \(LTV/CAC ratio: 7.5x\).) Tj
+T*
+(- Sales cycle: 45 to 60 days for medical groups; 120 days for enterprise hospita) Tj
+T*
+(l systems.) Tj
+T*
+ET
+endstream
+endobj
+14 0 obj
+<< /Length 507 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 750 Td
+/F1 14 Tf
+(SLIDE 7: COMPETITIVE MOAT & DEFENSIBILITY) Tj
+T*
+/F1 11 Tf
+(- Proprietary Medical Fine-Tuning: Trained on 120,000+ proprietary dual-annotate) Tj
+T*
+(d doctor-patient clinical transcripts \(HIPAA-compliant de-identified data\).) Tj
+T*
+(- Epic / Cerner Direct EHR Integration: Deep bi-directional write-back plugins t) Tj
+T*
+(hat took 14 months of security audits to certify.) Tj
+T*
+(- Regulatory Moat: HIPAA, SOC2 Type II, and HITRUST certified architecture.) Tj
+T*
+ET
+endstream
+endobj
+16 0 obj
+<< /Length 462 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 750 Td
+/F1 14 Tf
+(SLIDE 8: THE TEAM) Tj
+T*
+/F1 11 Tf
+(- Dr. Marcus Vance, CEO: Former Clinical Chief of Medicine at Mayo Clinic Region) Tj
+T*
+(al, 12 years in hospital administration.) Tj
+T*
+(- Elena Rostova, CTO: Ex-Staff Research Scientist at Google Health AI, PhD in NL) Tj
+T*
+(P from Stanford, 9 medical AI patents.) Tj
+T*
+(- Kevin Patel, Head of Sales: Scaled health-tech sales at Veeva Systems from $5M) Tj
+T*
+( to $40M ARR.) Tj
+T*
+ET
+endstream
+endobj
+18 0 obj
+<< /Length 613 >>
+stream
+BT
+/F1 11 Tf
+14 TL
+40 750 Td
+/F1 14 Tf
+(SLIDE 9: THE ASK & USE OF FUNDS) Tj
+T*
+/F1 11 Tf
+(- Raising: $3.0M Seed Financing \($2.2M already committed from leading MedTech an) Tj
+T*
+(gels\).) Tj
+T*
+(- Use of Proceeds:) Tj
+T*
+(- 50% Engineering & AI Infrastructure \(scaling inference throughput and multi-la) Tj
+T*
+(nguage support\).) Tj
+T*
+(- 35% Enterprise Sales & Customer Success \(expanding into 25 additional hospital) Tj
+T*
+( networks\).) Tj
+T*
+(- 15% Regulatory & Operations \(HITRUST recertification, legal, working capital\).) Tj
+T*
+(- Runway: 24 months to reach $3.5M ARR and Series A milestone.) Tj
+T*
+ET
+endstream
+endobj
+20 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R] /Count 9 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 20 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 2 0 R >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 20 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 4 0 R >>
+endobj
+7 0 obj
+<< /Type /Page /Parent 20 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 6 0 R >>
+endobj
+9 0 obj
+<< /Type /Page /Parent 20 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 8 0 R >>
+endobj
+11 0 obj
+<< /Type /Page /Parent 20 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 10 0 R >>
+endobj
+13 0 obj
+<< /Type /Page /Parent 20 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 12 0 R >>
+endobj
+15 0 obj
+<< /Type /Page /Parent 20 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 14 0 R >>
+endobj
+17 0 obj
+<< /Type /Page /Parent 20 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 16 0 R >>
+endobj
+19 0 obj
+<< /Type /Page /Parent 20 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 1 0 R >> >> /Contents 18 0 R >>
+endobj
+21 0 obj
+<< /Type /Catalog /Pages 20 0 R >>
+endobj
+xref
+0 22
+0000000000 65535 f 
+0000000015 00000 n 
+0000000085 00000 n 
+0000005145 00000 n 
+0000000445 00000 n 
+0000005272 00000 n 
+0000000980 00000 n 
+0000005399 00000 n 
+0000001594 00000 n 
+0000005526 00000 n 
+0000002151 00000 n 
+0000005653 00000 n 
+0000002704 00000 n 
+0000005782 00000 n 
+0000003296 00000 n 
+0000005911 00000 n 
+0000003855 00000 n 
+0000006040 00000 n 
+0000004369 00000 n 
+0000006169 00000 n 
+0000005034 00000 n 
+0000006298 00000 n 
+trailer
+<< /Size 22 /Root 21 0 R >>
+startxref
+6349
+%%EOF
